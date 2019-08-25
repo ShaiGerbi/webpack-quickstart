@@ -1,1 +1,4 @@
-# webpack-default-config
+# webpack default config
+
+####Just run
+`$ npm install`
