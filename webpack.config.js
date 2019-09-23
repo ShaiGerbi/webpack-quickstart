@@ -52,7 +52,7 @@ module.exports =
 				{
                     loader: 'html-loader',
                     options: {
-                        minimize: false,
+                        minimize: true,
                     },
                 }],
             },
