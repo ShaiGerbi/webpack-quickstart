@@ -2,11 +2,11 @@
 
 ```bash
 # Install dependencies
-`$ npm install`
+$ npm install
 
 # Create a bundle
-`$ npm run build`
+$ npm run build
 
 # Development server
-`$ npm run start`
+$ npm run start
 ```
