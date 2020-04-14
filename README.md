@@ -1,8 +1,12 @@
 # webpack default config
 
-##### Just run and start work
+```bash
+# Install dependencies
 `$ npm install`
-##### To create a bundle, run
+
+# Create a bundle
 `$ npm run build`
-##### To work with the development server, run
+
+# Development server
 `$ npm run start`
+```
